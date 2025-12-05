@@ -1,4 +1,8 @@
-﻿.titulo-pro {
+﻿body {
+    background: #d9ecff;
+}
+
+.titulo-pro {
     color: #333;
     margin-bottom: 20px;
     text-align: center;
